@@ -1,0 +1,7 @@
+name: CandorTrial
+version: 1.0.0
+main: dev.tarna.candortrial.CandorTrial
+description: A simple plugin that adds a broadcast, playerlist, and serverstatus command to your Discord Server made for a trial for Candor.
+author: Tarna
+website: https://github.com/tarna/CandorTrial
+api-version: '1.20.6'
